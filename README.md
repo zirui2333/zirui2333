@@ -3,8 +3,10 @@
 - 👨🏻‍💻 A backend software engineer with an interest in cloud computing field
 - 📝 I regulary write articles on my [blog](https://www.ziirui-resume-website.com/posts)
 - 📫 How to reach me:
-  🌐 Website: [Zirui's Space](https://www.ziirui-resume-website.com/)
-  📩 Email: zhengzirui43@gmail.com
+
+  🌐 Website: [Kunyang's Blog](https://kyxie.github.io/en/)
+
+  📩 Email: kyriexie@outlook.com
 
 
 ### 👨🏻‍💻 Skills
