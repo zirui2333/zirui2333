@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 - 💁🏻‍♂️ I'm Zirui Zheng from New York, You can also call me "Z".
 - 👨🏻‍💻 A backend software engineer with an interest in cloud computing field
@@ -23,6 +24,8 @@
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
   
+</div>
+
 </div>
 
 
