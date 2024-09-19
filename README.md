@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Zirui Zheng
 
 - 📫 How to reach me:
-  🌐 Website: Kunyang's Blog
-  📩 Email: kyriexie@outlook.com
+
+  🌐 Website: [Zirui's Space]([https://kyxie.github.io/en/](https://www.ziirui-resume-website.com/))
+
+  📩 Email: zhengzirui43@gmail.com
+
   
 <!--
 **zirui2333/zirui2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
