@@ -4,9 +4,9 @@
 - 📝 I regulary write articles on my [blog](https://www.ziirui-resume-website.com/posts)
 - 📫 How to reach me:
 
-  🌐 Website: [Kunyang's Blog](https://kyxie.github.io/en/)
+  🌐 Website: [Zirui's Space](https://www.ziirui-resume-website.com/)
 
-  📩 Email: kyriexie@outlook.com
+  📩 Email: zhengzirui43@gmail.com
 
 
 ### 👨🏻‍💻 Skills
