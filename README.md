@@ -29,11 +29,7 @@
 
 
 ### Github Stats
-<div>
-  <a href="https://github.com/zirui2333">
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide_title=false&card_width=350" />
-  </a>
-</div>
+
 <!--
 **zirui2333/zirui2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
