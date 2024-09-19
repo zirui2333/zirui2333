@@ -20,7 +20,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white" />
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
   
 </div>
