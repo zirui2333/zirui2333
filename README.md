@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF" />
+  <img src="https://img.shields.io/badge/MySQL-73618F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
   
