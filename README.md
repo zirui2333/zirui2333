@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 💁🏻‍♂️ I'm Zirui Zheng from New York, You can also call me "Z".
 - 👨🏻‍💻 A backend software engineer with an interest in cloud computing field
 - 📝 I regulary write articles on my [blog](https://www.ziirui-resume-website.com/posts)
@@ -23,9 +22,8 @@
 <div>
   <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
-  
-</div>
 
+</div>
 
 
 ### Github Stats
@@ -36,15 +34,12 @@
 </div>
 <!--
 **zirui2333/zirui2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
