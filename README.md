@@ -1,13 +1,11 @@
-<div align="center">
-  
 ### Hi there 👋
 
-💁🏻‍♂️ I'm Zirui Zheng from New York, You can also call me "Z".
-👨🏻‍💻 A backend software engineer with an interest in cloud computing field
-📝 I regulary write articles on my [blog](https://www.ziirui-resume-website.com/posts)
-📫 How to reach me:
-  🌐 Website: [Zirui's Space](https://www.ziirui-resume-website.com/)
-  📩 Email: zhengzirui43@gmail.com
+- 💁🏻‍♂️ I'm Zirui Zheng from New York, You can also call me "Z".
+- 👨🏻‍💻 A backend software engineer with an interest in cloud computing field
+- 📝 I regulary write articles on my [blog](https://www.ziirui-resume-website.com/posts)
+- 📫 How to reach me:
+    🌐 Website: [Zirui's Space](https://www.ziirui-resume-website.com/)
+    📩 Email: zhengzirui43@gmail.com
 
 
 ### 👨🏻‍💻 Skills
@@ -28,7 +26,6 @@
   
 </div>
 
-</div>
 
 
 ### Github Stats
