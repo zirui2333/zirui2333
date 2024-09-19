@@ -2,7 +2,7 @@
 
 - 📫 How to reach me:
 
-  🌐 Website: [Zirui's Space]([https://kyxie.github.io/en/](https://www.ziirui-resume-website.com/))
+  🌐 Website: [Zirui's Space](https://kyxie.github.io/en/](https://www.ziirui-resume-website.com/)
 
   📩 Email: zhengzirui43@gmail.com
 
