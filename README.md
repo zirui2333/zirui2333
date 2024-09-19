@@ -24,7 +24,17 @@
   <imh src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white" />
   
 </div>
-  
+
+
+### Github Stats
+<div>
+  <a href="https://github.com/zirui2333">
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=zirui2333&show_icons=true&count_private=true&include_all_commits=true&hide_title=false"/>
+  </a>
+  <a href="https://github.com/zirui2333">
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide_title=false&card_width=350" />
+  </a>
+</div>
 <!--
 **zirui2333/zirui2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
