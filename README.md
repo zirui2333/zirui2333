@@ -31,7 +31,7 @@
 ### Github Stats
 <div>
   <a href="https://github.com/zirui2333">
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide_title=false&card_width=350" />
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide_title=false&card_width=350&cache_seconds=1800" />
   </a>
 </div>
 <!--
