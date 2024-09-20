@@ -31,7 +31,7 @@
 ### Github Stats
 <div>
   <a href="https://github.com/zirui2333">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide=cpp&exclude_repo=Annt_NoSql,Schedule-Builder&card_width=350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zirui2333&layout=compact&hide=cpp&exclude_repo=Schedule-Builder&card_width=350" />
   </a>
 </div>
 <!--
